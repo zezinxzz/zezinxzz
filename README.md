@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**zezinxzz/zezinxzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+amo o flamengo
+amo o neymar
+odeio todos os time do BR
+amo o neymar
+8 coisas que eu gosto
+1-flamengo
+2-neymar
+3-erick
+4-tosin
+5-gustavo
+6-jao
+7-gabrielzao
+8-lucas
